@@ -4,7 +4,7 @@
         <description><![CDATA[mixingandmastering]]></description>
         <link>https://thegrid.ai/mixingandmastering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 07:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 07:16:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mixingandmastering/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mixing and Mastering Courses Online]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/mixingandmastering/3236593f-4a7a-471c-80d3-8e69097ad61f/index.html</link>
             <guid isPermaLink="false">3236593f-4a7a-471c-80d3-8e69097ad61f</guid>
             <pubDate>Fri, 22 Apr 2016 07:14:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Text post</p>]]></description>
+            <link>https://thegrid.ai/mixingandmastering/text-post/index.html</link>
+            <guid isPermaLink="false">276c819e-2000-490e-8544-c34d9d57a681</guid>
+            <pubDate>Fri, 22 Apr 2016 07:16:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
